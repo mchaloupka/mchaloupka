@@ -1,8 +1,8 @@
 - :wave: Miloš Chaloupka
-- :scotland: Currently in Scotland
+- :us: Currently in Washington, US (previously in :scotland: Scotland)
 - :czech_republic: Born in Czech Republic
-- :man_technologist: Software Developer @ Amazon
-- :man_student: Postgraduate @ Charles University in Prague
+- :man_technologist: Senior Software Engineer @ Amazon
+- :man_student: Charles University in Prague
 - :email: https://twitter.com/ChaloupkaMilos󠁧
 - :man: Pronouns: he/him/his
 
